@@ -97,7 +97,6 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 
 	/**
 	 * Properties of perfect binary tree used as assumptions:
-	 * Original link: "https://www.shiksha.com/online-courses/articles/perfect-binary-tree/#:~:text=Stack%20and%20queue-,Properties%20of%20Perfect%20Binary%20Tree,-All%20internal%20nodes"
 	 * Total no. of leaves = no. of non-leaf nodes + 1
 	 * The total no. of leaves = 2^height
 	 */
